@@ -1,0 +1,1 @@
+# guarde aqui somente programas de computador escritos com editor de linguagem (.java, .c, .php, .sql, etc)
