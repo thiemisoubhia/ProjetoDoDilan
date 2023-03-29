@@ -1,1 +1,1 @@
-# guarde nesta pasta os documentos de especificacao do projeto (planos, modelo de dados, uml, etc)
+# guarde nesta pasta os documentos de especificacao do projeto (planos, modelo de dados, uml, etc) ASTAH
